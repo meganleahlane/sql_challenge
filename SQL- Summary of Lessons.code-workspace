@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\01-Ins_Data_Normalization"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\02-Stu_Data_Normalization"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\03-Ins_Foreign_Keys"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\04-Stu_Foreign_Keys"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\05-Ins_Data_Relationships"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\06-Stu_Data_Relationships"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\07-Ins_ERD"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\08-Par_Designing_ERD"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\09-Par_ERD"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\10-Ins_Unions"
+		},
+		{
+			"path": "..\\BC_Remote\\Lessons\\09-SQL\\3\\Activities\\11-Stu_Unions"
+		}
+	]
+}
